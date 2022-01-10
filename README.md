@@ -8,10 +8,10 @@
 
 ## Hello World 👋
 
-- 🔭 I’m currently working on Beijing
+- 🔭 I’m currently working on ShangHai
 - 💬 You can ask me about java
-- 📫 How to reach me: <https://youngkbt.cn?contact=1>
-- 😄 Pronouns: youngkbt
+- 📫 How to reach me: 。。。。continue
+- 😄 Pronouns: Gavin
 - ⚡ Fun fact: 🏀 & 🏃‍ & 💻
 - :meat_on_bone: Meat lover
   
