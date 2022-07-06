@@ -17,5 +17,5 @@
   
 ## My Blog Websites
 
-- 1️⃣ GitHub Pages(fast)：<https://small-market.github.io/notes-blog/>
-- 2️⃣ Gitee Pages(fast)：<https://small-market.gitee.cn/notes-blog/>
+- 1️⃣ GitHub Pages(fast)：<https://small-market.github.io/>
+- 2️⃣ Gitee Pages(fast)：<https://small-market.gitee.io/>
