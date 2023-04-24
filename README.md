@@ -1,9 +1,9 @@
 <a href="https://github.com/gavin-james/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Small-market&theme=algolia&count_private=true&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gavin-james&theme=algolia&count_private=true&show_icons=true" />
 </a>
 
 <a href="https://github.com/gavin-james/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Small-market&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-james&layout=compact" />
 </a>
 
 ## Hello World 👋
